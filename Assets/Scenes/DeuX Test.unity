@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 1149.0471, g: 1505.353, b: 2819.2783, a: 1}
+  m_IndirectSpecularColor: {r: 1149.3618, g: 1505.582, b: 2819.206, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -593,7 +593,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 60
+  field of view: 75
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -619,7 +619,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1823688464}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.3263109, y: 1.375, z: -0.18711448}
+  m_LocalPosition: {x: 0, y: 1.375, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -848,7 +848,7 @@ PrefabInstance:
     - target: {fileID: 971215086883905718, guid: 93a69c519f3e79a4eb7c2555025f11a1,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.3263109
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 971215086883905718, guid: 93a69c519f3e79a4eb7c2555025f11a1,
         type: 3}
@@ -858,7 +858,7 @@ PrefabInstance:
     - target: {fileID: 971215086883905718, guid: 93a69c519f3e79a4eb7c2555025f11a1,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.18711448
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 971215086883905718, guid: 93a69c519f3e79a4eb7c2555025f11a1,
         type: 3}
@@ -922,7 +922,7 @@ PrefabInstance:
     - target: {fileID: 3069226196075379746, guid: 70fe287074918d84ba4723c9bfa1a97e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.3263109
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3069226196075379746, guid: 70fe287074918d84ba4723c9bfa1a97e,
         type: 3}
@@ -932,7 +932,7 @@ PrefabInstance:
     - target: {fileID: 3069226196075379746, guid: 70fe287074918d84ba4723c9bfa1a97e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.18711448
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3069226196075379746, guid: 70fe287074918d84ba4723c9bfa1a97e,
         type: 3}
