@@ -6,7 +6,7 @@ using UnityEngine.PlayerLoop;
 
 public class DayCycleController : MonoBehaviour
 {
-    [Range(0, 24)] public float timeOfDay;
+    [Range(0, 24)] public float timeOfDay = 1f;
 
     public GameObject sun;
     public Light sunLight;
